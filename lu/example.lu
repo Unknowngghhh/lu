@@ -1,5 +1,5 @@
-print "hello World"
-print "hi contributers"
+print "Hello World"
+print "Hi contributers"
 Declare dev as int
 let dev = 20+2*70
 // test is decleared below
